@@ -1,0 +1,2 @@
+import fadeGemma
+fadeGemma.main()
